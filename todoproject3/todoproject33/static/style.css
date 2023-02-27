@@ -1,0 +1,14 @@
+.banner{
+        background-color:lightblue;
+        width:1600px;
+        height:100px;
+
+}
+
+.banner-text{
+top:25px;
+left:600px;
+
+position:absolute;
+transform:transform;
+}
